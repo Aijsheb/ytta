@@ -1,1 +1,1 @@
-# ytta
+Kecerdasan Buatan
